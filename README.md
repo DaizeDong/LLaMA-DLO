@@ -4,7 +4,7 @@
 
 Published on the *First Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (SCOPE - ICLR 2025 Workshop)*.
 
-[![OpenReview](https://img.shields.io/badge/arXiv-2402.02464-b31b1b.svg?style=plastic)](https://openreview.net/forum?id=E9Jw3IHuDH)
+[![OpenReview](https://img.shields.io/badge/OpenReview-PDF-b31b1b.svg?style=plastic)](https://openreview.net/forum?id=E9Jw3IHuDH)
 
 ## Introduction
 
